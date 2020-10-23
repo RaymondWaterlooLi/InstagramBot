@@ -1,2 +1,2 @@
 # InstagramBot
-This bot is modified based on https://github.com/Engineervinay/InstgramBot's repo, I have cleaned the codes and modified it. 
+An instagram bot used to comment, view users' photos on instagram. 
